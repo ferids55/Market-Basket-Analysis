@@ -61,3 +61,5 @@ Dalam MBA ini menggunakan teknik **Association Rules** untuk mengetahui keterkai
 1. **Membuat berdekatan tempat** Tas Makeup dengan tempat Tas Pinggang Wanita dan Baju Renang Anak Perempuan. Sedangkan tempat Baju Renang Pria Anak-anak berdekatan dengan tempat Gembok Koper dan Tas Waist Bag.
 2. **Membuat promosi diskon** pada produk Tas Makeup, Tas Pinggang, Baju Renang Anak Perempuan, Baju Renang Pria Anak-anak, Gembok Koper, dan Tas Waist Bag.
 3. Jika DQLab Fashion berjualan secara online, maka produk-produk terpilih tersebut dapat **ditampilkan lebih menarik pada halaman homepage**.
+
+Anda dapat melihat detail pembahasan ini pada artikel saya di link **Medium** [berikut](https://ferids55.medium.com/data-science-in-retail-business-a7d3a57bf959).
